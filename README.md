@@ -35,8 +35,13 @@ Menambahkan Elemen lainnya pada Main Content
 menambahkan content artikel
 ![4](https://user-images.githubusercontent.com/56526583/115360622-fe402280-a1e9-11eb-91a0-39e1bcd725b7.png)
 ## Pertanyaan dan Tugas
-1. Tambahkan Layout untuk menu About
+# 1. Tambahkan layout untuk menu about
 Membuat dokumen HTML dengan nama file about.html, seperti berikut.
+![ss tugas 1](https://user-images.githubusercontent.com/56526583/115363202-74458900-a1ec-11eb-94e9-72932225e4d9.png)
+# 2. Tambahkan layout untuk menu Contact
+Membuat dokumen HTML dengan nama file kontak.html, seperti berikut
+![ss tugas 2](https://user-images.githubusercontent.com/56526583/115363378-9dfeb000-a1ec-11eb-8e8b-feccdd2662da.png)
+
 
 
 
